@@ -11,5 +11,4 @@ Chức năng app:
 - Sản phẩm và giá của sản phẩm.
 - Thông tin xuất xứ của sản phẩm.
 - Giỏ hàng.
-- Hóa đơn. 
 - Feedback của khách hàng về dịch vụ.
