@@ -7,7 +7,6 @@ Food Farm:
 Sản phẩm phù hợp với nhu cầu mua thực phẩm nông sản sạch trong tình trạng thực phẩm bẩn tràn lan trên thị trường
 
 Ứng dụng được thiết kế tiện lợi giúp bạn có thể đi chợ online trong vòng 3 phút bằng nhiều phương thức khác nhau:
-- Mua lẻ như trực tiếp đi mua hàng tại siêu thị
 - Gian hàng phục vụ theo từng loại thực phẩm riêng
 - Gian hàng chuyên về chế độ ăn riêng
 
