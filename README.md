@@ -1,9 +1,28 @@
 # DuAn_1
 Food Farm:
 
--> Do nhu cầu tìm nguồn thực phẩm sạch trên thị trường rất phổ biến, người tiêu dùng muốn tìm một nguồn cung cấp nguyên liệu tin cậy
-để sử dụng với mức giá thành hợp lí. Cuộc sống phát triển dẫn đến việc người tiêu dùng ít có thời gian đi chợ và việc tìm được nguồn 
-thực phẩm chất lượng kèm theo đó là dịch vụ giao hàng tận nhà rất phổ biến.
+-> Do ảnh hưởng bệnh dịch ncovid-19 hạn chế việc ra tiếp xúc bên ngoài, người tiêu dùng muốn tìm một nguồn cung cấp nguyên liệu tin cậy
+để sử dụng với mức giá thành hợp lí. FoodFarm là ứng dụng cung cấp thực phẩm đến tận nhà với các dòng sản phẩm hữu cơ, bản địa, tự nhiên như: rau hữu cơ, thịt lợn quế, gà đồi, thịt bò, thịt bê thả tự nhiên, gạo ruộng rươi, nước mắm truyền thống.
+
+Sản phẩm phù hợp với nhu cầu mua thực phẩm nông sản sạch trong tình trạng thực phẩm bẩn tràn lan trên thị trường
+
+Ứng dụng được thiết kế tiện lợi giúp bạn có thể đi chợ online trong vòng 3 phút bằng nhiều phương thức khác nhau:
+- Mua lẻ như trực tiếp đi mua hàng tại siêu thị
+- Gian hàng phục vụ theo từng loại thực phẩm riêng
+- Gian hàng chuyên về chế độ ăn riêng
+
+Ứng dụng cho phép khách hàng chat, gọi điện trực tiếp cửa hàng trưởng - người chịu phụ trách chọn lựa hàng hóa cho mình tại siêu thị hoặc nông trại.
+
+Trong vòng 3 phút kể từ khi bạn đặt hàng, người phụ trách cửa hàng sẽ liên hệ lại để giúp bạn lựa chọn sản phẩm tươi nhất, mới nhất, phù hợp với nhu cầu nhất và ngon nhất trong ngày.
+
+Bạn có thể yêu cầu sơ chế sẵn, chỉ việc mở ra là nấu.
+
+FoodFarm cam kết:
+- Giao hàng trong vòng 2h kể từ khi nhận được đơn hàng.
+- Bảo hành 1 đổi 1 hoặc hoàn tiền nếu sản phẩm không đúng yêu cầu.
+- Sản phẩm rõ nguồn gốc, từ các nông trại và nhà sản xuất bản địa uy tín.
+
+Cài ngay foodfarm để mua sắm thực phẩm chất lượng cho gia đình mình mỗi ngày.
 
 Chức năng app:
 
