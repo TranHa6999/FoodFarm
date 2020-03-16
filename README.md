@@ -28,6 +28,6 @@ Chức năng app:
 
 - Đăng nhập app.
 - Sản phẩm và giá của sản phẩm.
-- Thông tin xuất xứ của sản phẩm.
+- Thông tin xuất xứ của từng sản phẩm sản phẩm.
 - Giỏ hàng.
 - Feedback của khách hàng về dịch vụ.
